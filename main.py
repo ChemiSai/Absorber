@@ -54,6 +54,4 @@ st.write('Number of Stages required =',stages)
 if st.button('Author'):
     st.balloons()
     st.write("""By:
-    **_Sai Swaroop_  :sunglasses:
-    _Koneru Neelesh_  :sunglasses:
-    _Sriram Vijayragavan_** :sunglasses:""")
+    **_Sai Swaroop_  :sunglasses:""")
